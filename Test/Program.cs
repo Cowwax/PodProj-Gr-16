@@ -6,6 +6,7 @@ namespace Test
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        /// //hej där
         [STAThread]
         static void Main()
         {
