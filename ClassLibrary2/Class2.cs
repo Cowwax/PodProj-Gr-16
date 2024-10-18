@@ -8,5 +8,7 @@ namespace DL
 {
     internal class Class2
     {
+        //hej
+
     }
 }
