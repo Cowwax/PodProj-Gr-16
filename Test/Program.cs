@@ -2,7 +2,7 @@ namespace Test
 {
     internal static class Program
     {
-        // Hej hej hej hej
+        // Hej hej hej hej hej
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
